@@ -1,0 +1,44 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/address-card.svg</file>
+    <file>icons/arrow-circle-down.svg</file>
+    <file>icons/arrow-circle-left.svg</file>
+    <file>icons/arrow-circle-right.svg</file>
+    <file>icons/arrow-circle-up.svg</file>
+    <file>icons/arrow-down.svg</file>
+    <file>icons/arrow-left.svg</file>
+    <file>icons/arrow-right.svg</file>
+    <file>icons/arrow-up.svg</file>
+    <file>icons/bell.svg</file>
+    <file>icons/camera.svg</file>
+    <file>icons/check.svg</file>
+    <file>icons/edit.svg</file>
+    <file>icons/edit-3.svg</file>
+    <file>icons/file.svg</file>
+    <file>icons/folder.svg</file>
+    <file>icons/github.svg</file>
+    <file>icons/home.svg</file>
+    <file>icons/icons.qrc</file>
+    <file>icons/icons_rc.py</file>
+    <file>icons/info.svg</file>
+    <file>icons/instagram.svg</file>
+    <file>icons/list.svg</file>
+    <file>icons/mail.svg</file>
+    <file>icons/maximize-2.svg</file>
+    <file>icons/menu.svg</file>
+    <file>icons/minimize-2.svg</file>
+    <file>icons/play.svg</file>
+    <file>icons/python.svg</file>
+    <file>icons/rotate-ccw.svg</file>
+    <file>icons/rotate-cw.svg</file>
+    <file>icons/save.svg</file>
+    <file>icons/search.svg</file>
+    <file>icons/twitter.svg</file>
+    <file>icons/user.svg</file>
+    <file>icons/user-check.svg</file>
+    <file>icons/video.svg</file>
+    <file>icons/youtube.svg</file>
+    <file>icons/zoom-in.svg</file>
+    <file>icons/zoom-out.svg</file>
+  </qresource>
+</RCC>
